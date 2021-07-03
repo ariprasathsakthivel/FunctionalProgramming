@@ -1,0 +1,12 @@
+E:\C#\FunctionalProgramming\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.exe
+E:\C#\FunctionalProgramming\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.deps.json
+E:\C#\FunctionalProgramming\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.json
+E:\C#\FunctionalProgramming\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.dev.json
+E:\C#\FunctionalProgramming\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.dll
+E:\C#\FunctionalProgramming\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.pdb
+E:\C#\FunctionalProgramming\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfoInputs.cache
+E:\C#\FunctionalProgramming\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfo.cs
+E:\C#\FunctionalProgramming\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.CoreCompileInputs.cache
+E:\C#\FunctionalProgramming\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.dll
+E:\C#\FunctionalProgramming\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.pdb
+E:\C#\FunctionalProgramming\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.genruntimeconfig.cache
