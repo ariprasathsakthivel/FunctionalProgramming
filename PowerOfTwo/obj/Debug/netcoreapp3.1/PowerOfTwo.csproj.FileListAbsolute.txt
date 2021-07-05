@@ -1,0 +1,13 @@
+E:\C#\FunctionalProgramming\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.csproj.AssemblyReference.cache
+E:\C#\FunctionalProgramming\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.AssemblyInfoInputs.cache
+E:\C#\FunctionalProgramming\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.AssemblyInfo.cs
+E:\C#\FunctionalProgramming\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.csproj.CoreCompileInputs.cache
+E:\C#\FunctionalProgramming\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.exe
+E:\C#\FunctionalProgramming\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.deps.json
+E:\C#\FunctionalProgramming\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.runtimeconfig.json
+E:\C#\FunctionalProgramming\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.runtimeconfig.dev.json
+E:\C#\FunctionalProgramming\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.dll
+E:\C#\FunctionalProgramming\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.pdb
+E:\C#\FunctionalProgramming\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.dll
+E:\C#\FunctionalProgramming\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.pdb
+E:\C#\FunctionalProgramming\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.genruntimeconfig.cache

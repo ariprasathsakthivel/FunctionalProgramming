@@ -1,0 +1,12 @@
+E:\C#\FunctionalProgramming\VowelConsonant\bin\Debug\netcoreapp3.1\VowelConsonant.exe
+E:\C#\FunctionalProgramming\VowelConsonant\bin\Debug\netcoreapp3.1\VowelConsonant.deps.json
+E:\C#\FunctionalProgramming\VowelConsonant\bin\Debug\netcoreapp3.1\VowelConsonant.runtimeconfig.json
+E:\C#\FunctionalProgramming\VowelConsonant\bin\Debug\netcoreapp3.1\VowelConsonant.runtimeconfig.dev.json
+E:\C#\FunctionalProgramming\VowelConsonant\bin\Debug\netcoreapp3.1\VowelConsonant.dll
+E:\C#\FunctionalProgramming\VowelConsonant\bin\Debug\netcoreapp3.1\VowelConsonant.pdb
+E:\C#\FunctionalProgramming\VowelConsonant\obj\Debug\netcoreapp3.1\VowelConsonant.AssemblyInfoInputs.cache
+E:\C#\FunctionalProgramming\VowelConsonant\obj\Debug\netcoreapp3.1\VowelConsonant.AssemblyInfo.cs
+E:\C#\FunctionalProgramming\VowelConsonant\obj\Debug\netcoreapp3.1\VowelConsonant.csproj.CoreCompileInputs.cache
+E:\C#\FunctionalProgramming\VowelConsonant\obj\Debug\netcoreapp3.1\VowelConsonant.dll
+E:\C#\FunctionalProgramming\VowelConsonant\obj\Debug\netcoreapp3.1\VowelConsonant.pdb
+E:\C#\FunctionalProgramming\VowelConsonant\obj\Debug\netcoreapp3.1\VowelConsonant.genruntimeconfig.cache

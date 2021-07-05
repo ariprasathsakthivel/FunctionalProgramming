@@ -1,0 +1,13 @@
+E:\C#\FunctionalProgramming\PrimeFactors\bin\Debug\netcoreapp3.1\PrimeFactors.exe
+E:\C#\FunctionalProgramming\PrimeFactors\bin\Debug\netcoreapp3.1\PrimeFactors.deps.json
+E:\C#\FunctionalProgramming\PrimeFactors\bin\Debug\netcoreapp3.1\PrimeFactors.runtimeconfig.json
+E:\C#\FunctionalProgramming\PrimeFactors\bin\Debug\netcoreapp3.1\PrimeFactors.runtimeconfig.dev.json
+E:\C#\FunctionalProgramming\PrimeFactors\bin\Debug\netcoreapp3.1\PrimeFactors.dll
+E:\C#\FunctionalProgramming\PrimeFactors\bin\Debug\netcoreapp3.1\PrimeFactors.pdb
+E:\C#\FunctionalProgramming\PrimeFactors\obj\Debug\netcoreapp3.1\PrimeFactors.csproj.AssemblyReference.cache
+E:\C#\FunctionalProgramming\PrimeFactors\obj\Debug\netcoreapp3.1\PrimeFactors.AssemblyInfoInputs.cache
+E:\C#\FunctionalProgramming\PrimeFactors\obj\Debug\netcoreapp3.1\PrimeFactors.AssemblyInfo.cs
+E:\C#\FunctionalProgramming\PrimeFactors\obj\Debug\netcoreapp3.1\PrimeFactors.csproj.CoreCompileInputs.cache
+E:\C#\FunctionalProgramming\PrimeFactors\obj\Debug\netcoreapp3.1\PrimeFactors.dll
+E:\C#\FunctionalProgramming\PrimeFactors\obj\Debug\netcoreapp3.1\PrimeFactors.pdb
+E:\C#\FunctionalProgramming\PrimeFactors\obj\Debug\netcoreapp3.1\PrimeFactors.genruntimeconfig.cache

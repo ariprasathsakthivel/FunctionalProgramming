@@ -1,0 +1,12 @@
+E:\C#\FunctionalProgramming\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+E:\C#\FunctionalProgramming\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+E:\C#\FunctionalProgramming\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+E:\C#\FunctionalProgramming\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+E:\C#\FunctionalProgramming\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+E:\C#\FunctionalProgramming\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+E:\C#\FunctionalProgramming\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+E:\C#\FunctionalProgramming\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+E:\C#\FunctionalProgramming\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.CoreCompileInputs.cache
+E:\C#\FunctionalProgramming\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+E:\C#\FunctionalProgramming\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb
+E:\C#\FunctionalProgramming\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.genruntimeconfig.cache

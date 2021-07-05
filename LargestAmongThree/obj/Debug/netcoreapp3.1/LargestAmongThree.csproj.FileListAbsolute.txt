@@ -1,0 +1,13 @@
+E:\C#\FunctionalProgramming\LargestAmongThree\obj\Debug\netcoreapp3.1\LargestAmongThree.csproj.AssemblyReference.cache
+E:\C#\FunctionalProgramming\LargestAmongThree\obj\Debug\netcoreapp3.1\LargestAmongThree.AssemblyInfoInputs.cache
+E:\C#\FunctionalProgramming\LargestAmongThree\obj\Debug\netcoreapp3.1\LargestAmongThree.AssemblyInfo.cs
+E:\C#\FunctionalProgramming\LargestAmongThree\obj\Debug\netcoreapp3.1\LargestAmongThree.csproj.CoreCompileInputs.cache
+E:\C#\FunctionalProgramming\LargestAmongThree\bin\Debug\netcoreapp3.1\LargestAmongThree.exe
+E:\C#\FunctionalProgramming\LargestAmongThree\bin\Debug\netcoreapp3.1\LargestAmongThree.deps.json
+E:\C#\FunctionalProgramming\LargestAmongThree\bin\Debug\netcoreapp3.1\LargestAmongThree.runtimeconfig.json
+E:\C#\FunctionalProgramming\LargestAmongThree\bin\Debug\netcoreapp3.1\LargestAmongThree.runtimeconfig.dev.json
+E:\C#\FunctionalProgramming\LargestAmongThree\bin\Debug\netcoreapp3.1\LargestAmongThree.dll
+E:\C#\FunctionalProgramming\LargestAmongThree\bin\Debug\netcoreapp3.1\LargestAmongThree.pdb
+E:\C#\FunctionalProgramming\LargestAmongThree\obj\Debug\netcoreapp3.1\LargestAmongThree.dll
+E:\C#\FunctionalProgramming\LargestAmongThree\obj\Debug\netcoreapp3.1\LargestAmongThree.pdb
+E:\C#\FunctionalProgramming\LargestAmongThree\obj\Debug\netcoreapp3.1\LargestAmongThree.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\C#\FunctionalProgramming\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.exe
+E:\C#\FunctionalProgramming\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.deps.json
+E:\C#\FunctionalProgramming\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.json
+E:\C#\FunctionalProgramming\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.dev.json
+E:\C#\FunctionalProgramming\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.dll
+E:\C#\FunctionalProgramming\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.pdb
+E:\C#\FunctionalProgramming\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfoInputs.cache
+E:\C#\FunctionalProgramming\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfo.cs
+E:\C#\FunctionalProgramming\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.csproj.CoreCompileInputs.cache
+E:\C#\FunctionalProgramming\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.dll
+E:\C#\FunctionalProgramming\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.pdb
+E:\C#\FunctionalProgramming\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.genruntimeconfig.cache

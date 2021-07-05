@@ -1,0 +1,12 @@
+E:\C#\FunctionalProgramming\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.exe
+E:\C#\FunctionalProgramming\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.deps.json
+E:\C#\FunctionalProgramming\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.runtimeconfig.json
+E:\C#\FunctionalProgramming\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.runtimeconfig.dev.json
+E:\C#\FunctionalProgramming\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.dll
+E:\C#\FunctionalProgramming\QuotientRemainder\bin\Debug\netcoreapp3.1\QuotientRemainder.pdb
+E:\C#\FunctionalProgramming\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.AssemblyInfoInputs.cache
+E:\C#\FunctionalProgramming\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.AssemblyInfo.cs
+E:\C#\FunctionalProgramming\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.csproj.CoreCompileInputs.cache
+E:\C#\FunctionalProgramming\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.dll
+E:\C#\FunctionalProgramming\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.pdb
+E:\C#\FunctionalProgramming\QuotientRemainder\obj\Debug\netcoreapp3.1\QuotientRemainder.genruntimeconfig.cache
