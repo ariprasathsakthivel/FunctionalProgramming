@@ -6,18 +6,23 @@ namespace LargestAmongThree
     {
         static void Main(string[] args)
         {
-            int[] threeNumbers = arrayCreation();
-            Console.WriteLine(threeNumbers);
+            arrayCreation();
         }
-        static int[] arrayCreation()
+        static void arrayCreation()
         {
             int[] threeNumbers = new int[3];
             for (int i=0; i<3; i++)
             {
-                Console.WriteLine("Enter the "+ (i+1) +"number");
+                Console.WriteLine("Enter the " + (i + 1) + " number");
                 threeNumbers[i] = Convert.ToInt32(Console.ReadLine());
             }
-            return threeNumbers;
+            Array.Reverse(threeNumbers);
+            Console.WriteLine("Largest number among three numbers is : {0}",threeNumbers[0]);
+        }
+
+        private string GetDebuggerDisplay()
+        {
+            return ToString();
         }
     }
 }
